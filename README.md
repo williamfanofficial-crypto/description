@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0d1117,50:0a1628,100:001a0d&text=williamfanofficial&fontSize=58&fontColor=00ff88&fontAlignY=45&desc=Blockchain%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20e%2Facc&descSize=20&descAlignY=65&descColor=88ffcc&animation=fadeIn&stroke=00ff4420&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0d1117,50:0a1628,100:001a0d&text=williamfanofficial-crypto&fontSize=48&fontColor=00ff88&fontAlignY=45&desc=Blockchain%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20e%2Facc&descSize=20&descAlignY=65&descColor=88ffcc&animation=fadeIn&stroke=00ff4420&strokeWidth=2" width="100%"/>
 
 <br/>
 
@@ -154,38 +154,6 @@ I explore the frontier of machine intelligence as a practitioner and researcher.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamfanofficial-crypto&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=88ffcc&include_all_commits=true&count_private=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamfanofficial-crypto&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=88ffcc&langs_count=8"/>
-
-<br/><br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=williamfanofficial-crypto&theme=matrix&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=88ffcc&dates=88ffcc&stroke=00ff8820)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-> *The snake devours commits. Feed it by building.*
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/williamfanofficial-crypto/williamfanofficial-crypto/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/williamfanofficial-crypto/williamfanofficial-crypto/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/williamfanofficial-crypto/williamfanofficial-crypto/output/github-contribution-grid-snake.svg"/>
-</picture>
 
 </div>
 
